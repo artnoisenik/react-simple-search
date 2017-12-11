@@ -1,7 +1,7 @@
 # ReduxSimpleStarter
 
 Based on this tutorial [Redux](https://www.udemy.com/react-redux/).
-[Git Repo](https://github.com/StephenGrider/ReduxSimpleStarter.git)
+Here is the starter [git repo](https://github.com/StephenGrider/ReduxSimpleStarter.git).
 
 #### Using this repo?
 
